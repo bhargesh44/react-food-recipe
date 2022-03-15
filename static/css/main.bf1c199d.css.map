@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.bf1c199d.css","mappings":"AAAA,WACE,wBAAyB,CACzB,UAAY,CACZ,eAAgB,CAChB,iBACF,CAEA,YACE,eACF","sources":["App.css"],"sourcesContent":[".jumbotron {\n  background-color: #ff3f34;\n  color: white;\n  padding: 100px 0;\n  text-align: center;\n}\n\n.brand-icon {\n  font-size: 100px;\n}\n"],"names":[],"sourceRoot":""}
