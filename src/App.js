@@ -5,7 +5,7 @@ import Header from "./components/Header";
 import Recipes from "./components/Recipes";
 
 function App() {
-  const [search, setSearch] = useState("");
+  const [search, setSearch] = useState("mango");
   const [recipes, setRecipes] = useState([]);
   const APP_ID = "fd00cfc9";
   const APP_KEY = "02262584a364d788759b11fd2a5955ad";
